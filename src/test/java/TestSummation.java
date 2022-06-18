@@ -8,7 +8,7 @@ public class TestSummation {
 	public void testAddition()
 	{
 		Summation sum = new Summation();
-		assertEquals(6,sum.add(2, 3));
+		assertEquals(5,sum.add(2, 3));
 	
 	}
 
